@@ -1,0 +1,6 @@
+c:\users\brush\documents\visual studio 2012\Projects\MouseController\MouseController\bin\Debug\MouseController.exe.config
+c:\users\brush\documents\visual studio 2012\Projects\MouseController\MouseController\bin\Debug\MouseController.exe
+c:\users\brush\documents\visual studio 2012\Projects\MouseController\MouseController\bin\Debug\MouseController.pdb
+c:\users\brush\documents\visual studio 2012\Projects\MouseController\MouseController\obj\Debug\MouseController.csprojResolveAssemblyReference.cache
+c:\users\brush\documents\visual studio 2012\Projects\MouseController\MouseController\obj\Debug\MouseController.exe
+c:\users\brush\documents\visual studio 2012\Projects\MouseController\MouseController\obj\Debug\MouseController.pdb
