@@ -1,0 +1,6 @@
+c:\users\ben\documents\visual studio 2012\Projects\IRCommander\IRCommander\bin\Debug\IRCommander.exe.config
+c:\users\ben\documents\visual studio 2012\Projects\IRCommander\IRCommander\bin\Debug\IRCommander.exe
+c:\users\ben\documents\visual studio 2012\Projects\IRCommander\IRCommander\bin\Debug\IRCommander.pdb
+c:\users\ben\documents\visual studio 2012\Projects\IRCommander\IRCommander\obj\Debug\IRCommander.csprojResolveAssemblyReference.cache
+c:\users\ben\documents\visual studio 2012\Projects\IRCommander\IRCommander\obj\Debug\IRCommander.exe
+c:\users\ben\documents\visual studio 2012\Projects\IRCommander\IRCommander\obj\Debug\IRCommander.pdb
